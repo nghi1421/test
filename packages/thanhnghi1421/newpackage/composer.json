@@ -1,0 +1,10 @@
+{
+    "name": "thanhnghi1421/newpackage",
+    "authors": [
+        {
+            "name": "Thanh Nghi",
+            "email": "thanhnghi1421@gmail.com"
+        }
+    ],
+    "require": {}
+}
